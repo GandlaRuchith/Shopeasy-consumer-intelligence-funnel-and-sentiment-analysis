@@ -9,8 +9,6 @@
 **Business Context**
 ShopEasy's leadership identified a gap between marketing investment and actual purchase conversion. Despite strong top-funnel engagement, revenue growth was not keeping pace with traffic. This analysis was commissioned to diagnose where customers were dropping off, why sentiment was declining, and which products were silently underperforming — before these issues became visible in the P&L.
 
-<h3>Dashboard Walkthrough</h3>
-<img src="image/demo.gif" width="900"/>
 
 ## Key Findings ##
 - 96% of all drop-offs occur at Checkout (575 of 598) — the business has a bottom-funnel problem, not a traffic problem
@@ -44,8 +42,7 @@ As the analyst on this project, the focus was on three goals — diagnosing funn
 
 ## 📊 Executive Summary
 
-<h3>Dashboard Overview</h3>
-<img src="image/overview.png" width="900">
+<img width="1326" height="746" alt="image" src="https://github.com/user-attachments/assets/af518942-86e7-43b3-970a-51e38b950bd4" />
 
 ### Conversion Funnel
 - Overall conversion rate: **9.6%** (cleaned) vs 8.5% raw — a 1.1pp gap that validates the cleaning investment
@@ -56,7 +53,8 @@ As the analyst on this project, the focus was on three goals — diagnosing funn
 Implication: The awareness and interest problem is solved. The purchase completion problem is not.
 
 
-<img src="image/conversion.png" width="900">
+<img width="1326" height="742" alt="image" src="https://github.com/user-attachments/assets/4f109171-135c-4d00-b164-33f37453273c" />
+
 
 ---
 
@@ -69,7 +67,8 @@ Implication: The awareness and interest problem is solved. The purchase completi
 Implication: The engagement decay is seasonal and affects all channels equally — it is a campaign strategy problem, not a channel mix problem.
 
 
-<img src="image/marketing.png" width="900">
+<img width="1322" height="741" alt="image" src="https://github.com/user-attachments/assets/24fa684b-09a0-4e65-b219-14d7205a5cba" />
+
 
 ---
 
@@ -99,7 +98,8 @@ Critical signal: Running Shoes is At Risk across all three dimensions while simu
 
 
 
-<img src="image/sentiment.png" width="900">
+<img width="1322" height="742" alt="image" src="https://github.com/user-attachments/assets/00476a67-39bf-4c85-953f-f8f444a50385" />
+
 
 ---
 
