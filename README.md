@@ -42,7 +42,8 @@ As the analyst on this project, the focus was on three goals — diagnosing funn
 
 ## 📊 Executive Summary
 
-<img width="1326" height="746" alt="image" src="https://github.com/user-attachments/assets/af518942-86e7-43b3-970a-51e38b950bd4" />
+<img width="1322" height="745" alt="image" src="https://github.com/user-attachments/assets/e1a621f9-3b51-4ab0-9c2e-2a2e66b85a3e" />
+
 
 ### Conversion Funnel
 - Overall conversion rate: **9.6%** (cleaned) vs 8.5% raw — a 1.1pp gap that validates the cleaning investment
@@ -53,7 +54,8 @@ As the analyst on this project, the focus was on three goals — diagnosing funn
 Implication: The awareness and interest problem is solved. The purchase completion problem is not.
 
 
-<img width="1326" height="742" alt="image" src="https://github.com/user-attachments/assets/4f109171-135c-4d00-b164-33f37453273c" />
+<img width="1322" height="742" alt="image" src="https://github.com/user-attachments/assets/8c32ebab-ee37-4d6e-a73b-04236a95d64e" />
+
 
 
 ---
@@ -67,7 +69,8 @@ Implication: The awareness and interest problem is solved. The purchase completi
 Implication: The engagement decay is seasonal and affects all channels equally — it is a campaign strategy problem, not a channel mix problem.
 
 
-<img width="1322" height="741" alt="image" src="https://github.com/user-attachments/assets/24fa684b-09a0-4e65-b219-14d7205a5cba" />
+<img width="1326" height="742" alt="image" src="https://github.com/user-attachments/assets/422e8916-c757-414c-9dd6-c45d8087c916" />
+
 
 
 ---
@@ -97,8 +100,8 @@ Built a composite score across Conversion Rate, Average Rating, and % Positive S
 Critical signal: Running Shoes is At Risk across all three dimensions while simultaneously receiving the highest marketing click volume.
 
 
+<img width="1326" height="742" alt="image" src="https://github.com/user-attachments/assets/94d8b753-3c9c-4afc-9f73-b19becd3381a" />
 
-<img width="1322" height="742" alt="image" src="https://github.com/user-attachments/assets/00476a67-39bf-4c85-953f-f8f444a50385" />
 
 
 ---
